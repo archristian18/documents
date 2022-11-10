@@ -1,0 +1,78 @@
+A4, NO ERROR, image step 3
+
+	~ADMIN~
+		Admin A4 h 1
+			- 1 bg and 1 image
+
+		Admin A4 h 2
+			- 1 bg, 5 images
+
+		Admin A4 h 3
+			- 1 bg, 10 images
+
+		Admin A4 h 4
+			- 1 bg, 20 images
+
+			Admin A4 v 1
+				- 1 bg, 10 images
+
+			Admin A4 v 2
+				- 1 bg, 20 images
+
+		Admin 900X300 h 1
+		-1 bg, 20 images
+
+		Admin 450x300 h 2
+		-1 bg, 22 images
+
+		Admin no size h 3
+		-1 bg, 20 images
+
+		Admin B4 h 4
+		- 1 bg and 20 images
+
+		Admin A5 h 5
+		- 1 bg and 20 images
+
+		Admin A3 h 5
+		- 1 bg and 20 images
+
+~COMPANY ADMIN~
+
+	Company A4 h 1
+	- 1 bg and 1 image
+
+	Company A4 h 2
+	- 1 bg and 5 images
+
+	Company A4 h 3
+	- 1 bg and 20 images
+
+	Company A4 h 4
+	- 1 bg and 20 images
+
+		Company A4 v 1
+		- 1 bg and 5 images
+
+		Company A4 v 2
+		- 1 bg and 20 images
+
+	Company A3 h 1
+	- 1 bg and 20 images
+
+	Company A5 h 1
+	- 1 bg and 20 images
+
+	Company B4 h 1
+	- 1 bg and 20 images
+
+	Company no size
+	- 1 bg and 20 images
+
+	Company 450x300 h 1
+	- 1 bg and 20 images
+
+	Company 900x300 h 1
+	- 1 bg and 20 images
+
+

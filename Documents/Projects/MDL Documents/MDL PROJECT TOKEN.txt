@@ -1,0 +1,5 @@
+	MDL PROJECT TOKEN
+	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
+
+	php artisan passport:install --force
+	php artisan migrate:fresh --seed

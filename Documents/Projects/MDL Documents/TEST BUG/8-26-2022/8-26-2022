@@ -1,0 +1,64 @@
+~ADMIN~
+	Admin A2 h -4
+		- 5 images
+		- No Changes Step 4
+		- ERROR SUBMIT STEP 4
+	Admin A2 h -5 Double check same process
+		- 5 images not include background image
+		- No Changes Step 4
+		- ERROR SUBMIT STEP 4
+	* SAME RESULT ERROR
+
+	Admin A2 h -6
+		- different selection step 1, only one
+		- left bullet step 2
+		- 5 images not include background image
+		- No Changes Step 4
+		- ERROR SUBMIT STEP 4
+
+Admin A2 h -7
+	- different selection step 1, only one
+	- left bullet step 2
+	- 4 images not include background image
+	- No Changes Step 4
+	- ERROR SUBMIT STEP 4
+
+Admin A2 h -8
+	- left bullet step 2
+	- 3 images not include background image
+	- No Changes Step 4
+	- NO ERROR
+
+Admin A2 h -9
+	- left bullet step 2
+	- 1 image BG, 5 text only
+	- No Changes Step 4
+	- NO ERROR
+
+Admin A2 h -10
+	- left bullet step 2
+	- 1 image BG, 3 image, 2 text only
+	- No Changes Step 4
+	- ERROR
+
+Admin A2 h -11
+	- left bullet step 2
+	- 1 image BG, 3 image, 1 text only
+	- No Changes Step 4
+	- No ERROR
+
+
+Admin A2 h -12
+	- left bullet step 2
+	- 1 image BG, 3 image, 4 text only
+	- No Changes Step 4
+	- ERROR
+
+
+
+Company Admin A2 h -13
+	- 1 image BG, 3 image, 4 text only
+	- No Changes Step 4
+	- ERROR
+
+

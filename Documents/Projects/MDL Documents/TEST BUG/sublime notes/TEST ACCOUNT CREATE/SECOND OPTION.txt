@@ -1,0 +1,47 @@
+SECOND OPTION CREATED ACCOUNT
+Company name => mdl35COMPANY => mdl35@gmail.com (CompanyAdmin)
+
+~COMPANY ADMIN~
+mdl35Newadmin@gmail.com
+phCgnMYK
+
+Company name => mdl35COMPANY
+~COMPANY USER~ 
+mdl35Newadmin@gmail.com
+LA5bK3oC
+sNJfFbyc
+
+EDL9kmJT
+SWT2zmP8
+
+(ERROR FOUND)
+
+~COMPANY USER~ (two click button or to many clicks) 3 clicks sample
+MAILTRAP(3 PASSWORD SEND)
+REGISTERED (3 users)
+
+errorfound@gmail.com
+5fARjg64 ( SUCCESSFULLY LOGIN ) first email password
+DI3sLjRJ ( ERROR LOGIN ) 2nd email password
+Please enter the correct email address or password.
+2TQ1GROj ( ERROR LOGIN ) 3rd email password 
+Please enter the correct email address or password.
+
+~COMPANY ADMIN~ (two click button or to many clicks) 3 clicks sample
+newCompanyadminClick@gmail.com
+1st: vVtDFuW3 (Success)
+2nd: n5vsDLbA (Fail)
+3rd: o3SDfH4t (Fail)
+4th: jgX21CF4 (Fail)
+5th: iRos7BkH (Fail)
+
+~COMPANY ADMIN~
+Create Admin Under newCompanyadminClick@gmail.com
+undercompanyadmin@gmail.com
+O6hbVMC2
+
+~COMPANY ADMIN~
+Create User Under newCompanyadminClick@gmail.com
+undercompanyadmin@gmail.com
+O6hbVMC2
+

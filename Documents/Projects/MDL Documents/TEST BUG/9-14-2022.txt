@@ -1,0 +1,26 @@
+Company List,
+Add Company admins Columns
+
+Example
+testsuntory 10 | Company Admin 1, Company Admin 2,
+
+
+First check,
+how to display existing table
+
+REVIEW feature-33
+Create download template, Boarder
+-A4 done
+-A3 done
+-A2 error
+-A5 done
+-B4 done
+-1 done
+-2 done
+-3 done
+-4 done
+
+Edit download template, Boarder
+Company B4 h 4
+-A3 to A5, error buttom right no boarder
+-B4 to A5, error murag na tabunan sa image

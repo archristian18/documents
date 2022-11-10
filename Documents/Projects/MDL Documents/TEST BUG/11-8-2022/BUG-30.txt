@@ -1,0 +1,37 @@
+Template Admin
+	Gen.
+	A3 - Bug-fix-30-1, 
+	A4 - Bug-fix-30-2,
+	A2 - Bug-fix-30-3,
+	A5 - Bug-fix-30-4,
+	B4 - Bug-fix-30-5,
+	 - Bug-fix-30-6,
+	450 x 300 - Bug-fix-30-7,
+	900 x 300 - Bug-fix-30-8,
+	Custom (500x500)- Bug-fix-30-9, 10 images
+
+Catalog
+	Gen.
+	A3 - Bug-fix-30-1, 
+	A4 - Bug-fix-30-2,
+	A2 - Bug-fix-30-3,
+	A5 - Bug-fix-30-4,
+	B4 - Bug-fix-30-5,
+	 - Bug-fix-30-6,
+	450 x 300 - Bug-fix-30-7,
+	900 x 300 - Bug-fix-30-8,
+	Custom (500x500)- Bug-fix-30-9, 10 images
+
+
+	Template Company Admin
+	Gen.
+	A4 - Bug-fix-30-1, 
+	A3 - Bug-fix-30-2,
+	A2 - Bug-fix-30-3,
+	A5 - Bug-fix-30-4,
+	B4 - Bug-fix-30-5,
+	 - Bug-fix-30-6,
+	450 x 300 - Bug-fix-30-7,
+	900 x 300 - Bug-fix-30-8,
+	Custom (500x500)- Bug-fix-30-9, 10 images
+

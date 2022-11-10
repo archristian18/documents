@@ -1,0 +1,23 @@
+~Company Admin ACCOUNT~
+	-	company@gmail.com
+		password123
+	Company Admin new
+	-companyadminnew@gmail.com
+	lYyj7mwp
+
+
+~Company User ACCOUNT~
+	-	companyuser@gmail.com
+		password
+		
+
+~System Admin ACCOUNT~
+	-	admin@menudesignlab.com
+		password
+
+~~Company User ACCOUNT~
+	- newUser@gmail.com
+	  password321
+
+	  testing@gmail.com
+	  Password123

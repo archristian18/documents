@@ -1,0 +1,69 @@
+SYSTEM ADMIN
+
+Normal User
+testingfinal@gmail.com
+uDpNMqkJ
+
+System Admin
+1.1 DONE
+1.2 DONE
+&&
+COMPANY ADMIN 
+1.1 DONE
+1.2 DONE
+
+	Company Admin
+	under new testing Company name
+	finalAdmin@gmail.com 
+	AiGjEuVC
+
+	System Admin
+	1.1 DONE
+	1.2 DONE
+	&&
+	COMPANY ADMIN OTHER ACCOUNT BUT SAME COMPANY
+	1.1 UNDER SA COMPANY NAME, CREATE USER
+	1.2 DONE
+
+	COMPANY ADMIN OTHER ACCOUNT BUT NOT SAME COMPANY
+	1.1 DONE
+	1.2 DONE
+
+	HIS COMPANY ADMIN LOGIN
+	1.1 DONE	
+	1.2 DONE
+
+		Company ADMIN User
+		under new testing Company name
+		ACCOUNT LOGIN finalAdmin@gmail.com, AiGjEuVC
+		lbLUWnr7
+		USERS@gmail.com
+
+			System Admin
+			1.1 DONE
+			1.2 DONE
+			&&
+			COMPANY ADMIN OTHER ACCOUNT BUT SAME COMPANY
+			1.1 DONE
+			1.2 UNDER SA COMPANY NAME, CREATE USER
+
+			COMPANY ADMIN OTHER ACCOUNT BUT NOT SAME COMPANY
+			1.1 DONE
+			1.2 DONE
+
+
+Check Validation
+1. SYSTEM ADMIN
+	1.1 COMPANY ADMIN (EMAIL),
+	under company name newTesting
+
+	1.2 NORMAL USER
+
+2. COMPANY ADMIN mdl35@gmail.com
+	2.1 Company User  same email (EMAIL)
+	(IS CREATED) NEED TO FIX
+
+
+	2.2 Company Admin same email testingmdl35@gmail.com
+
+3. COMPANY ADMIN mdl35@gmail.com

@@ -1,0 +1,102 @@
+STAGING
+
+chmod 400 mdl-staging.pem    # Do this Only Once
+
+ssh -i mdl-staging.pem ubuntu@13.112.5.110
+
+cd mdl
+
+git fetch gitlab
+
+git merge gitlab/master
+
+docker-compose run --rm node npm run build
+
+
+
+PRODUCTION
+
+*local environment creating tags for production and suntory
+
+open windows terminal
+
+git fetch origin
+
+
+
+mdl
+
+git checkout staging
+
+
+
+
+
+git merge origin/master
+
+git tag -a <tag_name> -m “<tag message>”
+
+git push origin <created_tag_name>
+
+
+
+*connet to server
+
+ssh -i MDL-prod.pem ubuntu@35.76.4.72
+
+cd skyarch-mdl/apps
+
+ 
+
+cd mdl
+
+git fetch gitlab
+
+git checkout <tag_name>
+
+
+SUNTORY
+
+*local environment creating tags for production and suntory
+
+open windows terminal
+
+git fetch origin
+
+
+
+
+git checkout suntory_new
+
+
+
+git merge origin/master
+
+git tag -a <tag_name> -m “<tag message>”
+
+git push origin <created_tag_name>
+
+
+
+*connet to server
+
+ssh -i MDL-prod.pem ubuntu@35.76.4.72
+
+cd skyarch-mdl/apps
+
+
+
+
+cd suntory
+
+git fetch gitlab
+
+git checkout <tag_name> 
+
+
+
+docker exec -it mdl_node sh
+
+#/var/www/suntory/src/frontend
+
+#npm run build

@@ -1,0 +1,17 @@
+~COMPANY ADMIN ACCOUNT~
+~MDL 26 ~ 
+2 USERS
+mdl26@gmail.com
+GvF1Um7J
+
+~MDL262~
+1 USER
+mdl262@gmail.com
+XRUe5wfG
+
+First name - 名前
+Last name - 名字
+
+seconduserF
+seconduserL
+mdl26second@gmail.com

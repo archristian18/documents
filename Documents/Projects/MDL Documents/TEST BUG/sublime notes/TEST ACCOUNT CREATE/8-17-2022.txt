@@ -1,0 +1,144 @@
+TASK TO DO
+Required in company field creating Company Admin
+- REMOVE NONE
+
+Validate
+- Login other company admin
+Create company user email, same email company admin not login.
+
+CompanyAdmin 
+testingmdl35@gmail.com
+19XDQh5O
+
+
+ALREADY CREATE testingmdl35@gmail.com as company admin under company name newTesting
+
+1. SYSTEM ADMIN
+	1.1 COMPANY ADMIN testingmdl35@gmail.com,
+	under company name newTesting
+
+	1.2 NORMAL USER (IS CREATED) NEED TO FIX
+
+2. COMPANY ADMIN mdl35@gmail.com
+	2.1 Company User  same email testingmdl35@gmail.com
+	(IS CREATED) NEED TO FIX
+
+
+	2.2 Company Admin same email testingmdl35@gmail.com
+
+
+Normal User
+NORMALmdl35@gmail.com
+1D8bQJfP
+
+
+ALREADY CREATE NORMALmdl35@gmail.com as normal user
+
+1. SYSTEM ADMIN
+	1.1 COMPANY ADMIN NORMALmdl35@gmail.com,
+	1.2 NORMAL USER
+
+2. COMPANY ADMIN mdl35@gmail.com
+	1.1 COMPANY ADMIN NORMALmdl35@gmail.com,
+	1.2 NORMAL USER
+
+
+UPDATE
+
+Normal User
+testingfinal@gmail.com
+uDpNMqkJ
+
+System Admin
+1.1 DONE
+1.2 DONE
+&&
+COMPANY ADMIN 
+1.1 DONE
+1.2 DONE
+
+
+			CREATE USER
+			LOGIN COMPANY ADMIN
+			ID = 20
+			EMAIL = arc@gmail.com
+
+			CREATE COMPANY USER
+			GET arc@gmail.com
+
+			COMPANY ADMIN
+			1. Create User not exist email /
+			2. Create Company Admin exist email in Company Admin /
+			3. Create User exist email in Company Admin, (STILL REGISTER)
+
+			HOW TO CHECK COMPANY USER?
+			affiliated_sales_office === NULL ?
+
+			HOW TO GET THE EMAIL LOGIN USED?
+
+			Ask ta ko Sir, Saon pagkuha sa Data sa naka login,
+
+
+			company_id = 21
+
+
+
+SYSTEM ADMIN
+
+Create Normal User (too many click button) 5 clicks
+5 Normalusers Created
+Mail trap 5 password send
+
+clicks@gmail.com
+1st: UVT2LQuo (Success)
+2nd: iz5XjSuH (Fail)
+3rd: tKCWDc5x (Fail)
+4th: GitrN6Tv (Fail)
+5th: 75qL9PSV (Fail)
+
+
+Create Company Admin, under mdl35COMPANY (too many click button) 3
+3 company admin Created
+3 Mail trap password send
+
+companyadminclick@gmail.com ( with checkbox )
+1st: O5l4vkXr (Fail)
+2nd: JKIu7bWO (Success)
+3rd: qnbRHakm (Fail)
+
+
+
+Create Company (MULTIPLE CLICK)
+4  Company name create
+
+multipleClickCompany
+
+
+
+		FIX BUG
+
+		~System Admin~ Company
+		newAdmin35
+
+		~NORMAL USER~
+		newNormalUser35F@gmail.com
+		87t5C1yR
+
+		~COMPANY ADMIN~
+		newAdmin35@gmail.com
+		qs1Czyeg
+
+		newAdmin352@gmail.com
+		gCcfX7zL
+
+		~COMPANY USER~
+		newCompanyUser@gmail.com
+		7AXR3cTG
+
+		~COMPANY ADMIN~ Created under newAdmin35@gmail.com account
+		newAdminUnder@gmail.com
+		4Kunyobx
+
+		newAdminUnder@gmail.comUPDATE
+
+

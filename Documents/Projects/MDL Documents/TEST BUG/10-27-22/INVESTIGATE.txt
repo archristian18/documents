@@ -1,0 +1,25 @@
+CATALOGS
+~ Template Use ~
+	- 1 
+	TESTING MDL20
+	*images 10
+	- 2
+	Custom Min 120
+	*text 12
+	- 3
+	TESTING MDL20
+	*images 20
+	*only one range
+	
+
+BUG *****
+go back to step 1 and go back
+to step 2 missing all added images & text
+	- 4
+	TESTING MDL20
+	*images 10
+	*text 10
+	- 5
+	TESTING MDL20
+	*images 4
+	*text 4

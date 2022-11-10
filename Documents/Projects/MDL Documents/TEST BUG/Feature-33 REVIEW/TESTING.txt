@@ -1,0 +1,53 @@
+COMPUTATION
+
+200 x 3.7795 = 755.9 converted mm to px
+
+755.9 x 0.03 (3%) = 22.677 ( green line to blue line )
+w = 755.9 - 22.677 = 733.22 actual width 
+
+
+300 x 3.7795 = 1133.85 converted mm to px
+h = 1133.85 - 22.677(ang 3% gikan sa width) = 1111.173 actual height
+
+755.9 x 0.1 (10%) = 75.59 ( green line to blue line )
+w = 755.9 + 75.59 = 831.49 actual width
+h = 1133.85 + 75.59(ang 1% gikan sa width) = 1,209.74
+
+
+
+
+1889.75 + 188.975
+--------------------------------------------------------------------
+
+SYSTEM ADMIN
+Feature-33 C 1, Custom Size - 200w, 300h 
+No Border - 733pxW x 1111px H
+Border - 831pxW x 1209px H
+
+Feature-33 C 2, 900x300
+No Border - 7086pxW x 2362px H
+Border - 7291pxW x 2567px H
+
+Feature-33 C 3, Custom Size - 500w, 500h 
+No Border - 1833pxW x 1833px H
+Border - 2,078px x 2,078px H
+
+
+------------------------------------------------------------------
+
+Company Admin
+Feature-33 CA 1, Custom Size - 500w, 500h 
+No Border - 1833pxW x 1833px H
+Border - 2,078px x 2,078px H
+-----------------------------------------------------------------
+
+Company User
+
+Feature-33 U 1, Custom Size - 500w, 500h 
+No Border - 1833pxW x 1833px H
+Border - 2,078px x 2,078px H
+
+
+USER CHANGE NAME ERROR
+
+

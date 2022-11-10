@@ -1,0 +1,74 @@
+~Company User~
+~Company Admin~ 
+
+1. ERROR company user login
+- SAME EMAIL REGISTERED AS COMPANY ADMIN
+2. After a while an error occurred that prevented him from logging in.
+
+
+TRY:
+registering the user as normal user without company admin
+
+
+SECOND CREATED ACCOUNT
+~NORMAL USER~
+mdl35NormalUser@gmail.com
+Jk9vLRqt
+
+FIRST CREATED ACCOUNT
+Company name => mdl35COMPANY
+~COMPANY ADMIN~ SAME EMAIL TO COMPANY USER
+mdl35@gmail.com
+phCgnMYK
+
+~COMPANY USER~
+mdl35@gmail.com
+kq48MuH1
+
+~COMPANY USER~
+mdl312@gmail.com
+f9nr6vlE
+
+
+Create normal user same sa Company Admin, (Validate already exist email)
+Create normal user same sa Company User, (Validate already exist email)
+COMPANY NAME => normalAdmin 
+
+~NORMAL USER~
+normalAdminUser@gmail.com
+1LJOMYFj
+
+~Company Admin~
+normalAdminNotSame@gmail.com
+ZIK6su2g
+
+~Company User~
+normalAdminNotSame@gmail.com
+PjaW7fhH
+
+*Create Company Admin, Create normaluser (Validate already exist email)	
+~Company Admin~
+lastmdl35@gmail.com
+71F2xuRm
+
+~Company User~
+lastmdl35@gmail.com
+1MgzLi8G
+
+~Company Admin~ *NO COMPANY UNDER, (BLANK PAGE)
+none@gmail.com
+i3Qe9RuS
+
+~PRODUCTION~
+
+The production already have checkbox? YES
+
+LOGIN
+*Company User
+need uncheck the checkbox 管理者としてログインしますか？
+*Company Admin
+need check the checkbox 管理者としてログインしますか？
+
+*Normal User, Register in system Admin User
+need uncheck the checkbox 管理者としてログインしますか？
+
